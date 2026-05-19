@@ -1,1 +1,1 @@
-# Trump_Posts_Search_Engine
+A Python search engine for Donald Trump's posts using Elasticsearch. The project preprocesses and indexes post data, then allows users to perform Boolean search, phrase search, numeric filtering, date filtering, and similarity search through a graphical user interface.
